@@ -1,6 +1,6 @@
 # Front End Developer Tools and Bookmarks
 
-*A list of tools and bookmarks for web, development and design I've collected over time
+*A list of tools and bookmarks for web, development and design I've collected over time*
 
 ##Guidelines
 + [Codeguide](http://codeguide.co/): a collection of guides for web development.
